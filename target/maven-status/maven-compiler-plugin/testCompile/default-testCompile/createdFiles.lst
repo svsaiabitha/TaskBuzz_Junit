@@ -1,0 +1,4 @@
+com\taskbuzz\test\ToDoServiceTest.class
+com\taskbuzz\JwtImpleApplicationTests.class
+com\taskbuzz\test\JwtHelperTest.class
+com\taskbuzz\test\UserServiceTest.class
